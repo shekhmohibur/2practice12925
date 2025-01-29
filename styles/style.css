@@ -77,4 +77,13 @@
 .hero-3{
     height: 720px;
     display: flex;
+    justify-content: center;
+}
+.midnight-container{
+    width: 1320px;
+    height: 600px;
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
 }
