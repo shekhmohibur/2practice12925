@@ -152,3 +152,20 @@
 .location-box span{
     color: rgb(255, 0, 0);
 }
+.join-btn-loc{
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    position: relative;
+    width: 167px;
+    height: 56px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    margin-top: 60px;
+}
