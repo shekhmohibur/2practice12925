@@ -122,3 +122,33 @@
     border: none;
     cursor: pointer;
 }
+/* hero-4 css starts from here  */
+.hero-4{
+    height: 602px;
+    display: flex;
+    justify-content: center;
+}
+.location-container{
+    width: 1320px;
+    height: 482px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.location-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.location-box p{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;   
+}
+.location-box span{
+    color: rgb(255, 0, 0);
+}
