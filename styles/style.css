@@ -3,3 +3,14 @@
     padding: 0%;
     margin: 0%;
 }
+.hero-1{
+    height: 770px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-1 .newYear{
+    background:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+}
