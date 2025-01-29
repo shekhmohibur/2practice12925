@@ -73,3 +73,8 @@
     width: 802.9px;
     height: 500px;
 }
+/* hero-3 css starts from here  */
+.hero-3{
+    height: 720px;
+    display: flex;
+}
