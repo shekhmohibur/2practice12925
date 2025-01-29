@@ -13,4 +13,25 @@
     background:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url('../images/Banner\ Image.png');
     width: 1320px;
     height: 600px;
+    background-size: cover;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.greetNewYear{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+.celebration{
+    width: 632px;
+    height: 190px;
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 65px;
+    font-weight: 900;
+    text-align: center;
 }
