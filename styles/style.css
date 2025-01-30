@@ -363,4 +363,55 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.newsletter-container .mail-icon{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 40px;
+}
+.newsletter-container .newsletter-heading{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+.newsletter-container .newsletter-txt{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    width: 896px;
+    height: 64px;
+}
+.newsletter-container .email-sub{
+    display: inline;
+    gap: 0;
+}
+.newsletter-container .email-sub input{
+    border: none;
+    width: 438px;
+    height: 72px;
+    border-top-left-radius: 58px;
+    border-bottom-left-radius: 58px;
+    padding-left: 30px;
+    border:none;
+}
+.newsletter-container .subscribe-btn{
+    height: 72px;
+    width: 210px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+    background: rgb(255, 0, 0);
+    border:none;
+    cursor: pointer;
 }
