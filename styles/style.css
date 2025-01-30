@@ -388,10 +388,12 @@
     text-align: center;
     width: 896px;
     height: 64px;
+    margin-bottom: 48px;
 }
 .newsletter-container .email-sub{
-    display: inline;
-    gap: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .newsletter-container .email-sub input{
     border: none;
@@ -401,6 +403,8 @@
     border-bottom-left-radius: 58px;
     padding-left: 30px;
     border:none;
+    font-size: 20px;
+    outline: none;
 }
 .newsletter-container .subscribe-btn{
     height: 72px;
@@ -414,4 +418,8 @@
     background: rgb(255, 0, 0);
     border:none;
     cursor: pointer;
+    border-top-right-radius: 58px;
+    border-bottom-right-radius: 58px;
+    margin-left: 0;
 }
+/* footer css starts from here  */
