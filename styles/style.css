@@ -353,4 +353,14 @@
 /* .hero-8 starts from here  */
 .hero-8{
     height: 736px;
+    display: flex;
+    justify-content: center;
+}
+.newsletter-container{
+    width: 1320px;
+    height: 616px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
