@@ -423,3 +423,17 @@
     margin-left: 0;
 }
 /* footer css starts from here  */
+footer{
+    height: 609px;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-container{
+    width: 1320px;
+    height: 369px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
