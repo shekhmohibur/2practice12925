@@ -309,3 +309,48 @@
     margin-top: 60px;
 }
 /* hero-7 css starts from here  */
+.hero-7{
+    height: 1283px;
+    display: flex;
+    justify-content: center;    
+}
+.portfolio-container{
+    width: 1320px;
+    height: 1163px;
+}
+.portfolio-title{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 16px;
+}
+.portfolio-heading{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;  
+    margin-bottom: 22px; 
+}
+.portfolio-txt{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 896px;
+    text-align: left;
+    margin-bottom: 48px;
+}
+.portfolio-gallery{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.portfolio-gallery img{
+    width: 424px;
+}
+/* .hero-8 starts from here  */
+.hero-8{
+    height: 736px;
+}
