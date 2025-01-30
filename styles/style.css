@@ -346,6 +346,7 @@
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+    width: 1320px;
 }
 .portfolio-gallery img{
     width: 424px;
