@@ -170,3 +170,93 @@
     margin-top: 60px;
 }
 /* hero-5 starts from here  */
+.hero-5{
+    height: 583px;
+    display: flex;
+    justify-content: center; 
+}
+.hero-5 .hero-5-container{
+    height: 463px;
+    width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.newOffer{
+    width: 393px;
+    height: 255px;
+}
+.newOffer span{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.newOffer .comingSoon{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 60px;
+    text-align: left;
+    text-transform: capitalize;
+    color: rgb(7, 2, 17);
+    margin-bottom: 22px;
+}
+.newOffer p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;    
+}
+.elipse-img{
+    width: 463px;
+    height: 463px;
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.new2024{
+    width: 276px;
+    height: 421px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.new2024 span{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    text-align: left;   
+}
+.new2024 p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;    
+    margin-top: 16px;
+}
+.new2024 img{
+    width: 140px;
+    height: 140px;
+    margin-top: 43px;
+}
+/* hero-6 css starts from here  */
+.hero-6{
+    height: 1106.07px;
+    display: flex;
+    justify-content: center;
+}
