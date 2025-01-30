@@ -437,3 +437,22 @@ footer{
     flex-direction: column;
     justify-content: space-between;
 }
+.contacts-footer{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 40px;
+}
+.contacts-footer a{
+    color: rgb(255, 255, 255);
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    gap: 8px;
+}
+.contacts-footer a img{
+    width: 24px;
+    height: 24px;
+}
