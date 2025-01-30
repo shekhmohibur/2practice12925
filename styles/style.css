@@ -260,3 +260,52 @@
     display: flex;
     justify-content: center;
 }
+.holiday-container{
+    width: 1320px;
+    height: 986.07px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url('../images/Rectangle\ 2.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.holiday-title{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 20px;
+}
+.holiday-discount{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holiday-discount span{
+    color: rgb(255, 0, 0);
+    margin-top: 16px;
+}
+.holiday-para{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    text-align: center;
+    width: 1068px;
+    height: 96px;
+    margin-top: 25px;
+}
+.surpriseBox{
+    width: 796.46px;
+    height: 662.07px;
+}
+.discount50{
+    width: 305.69px;
+    height: 305.69px;
+    margin-bottom: 100px;
+}
+.holiday-img{
+    height: 662.07px;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+/* hero-7 css starts from here  */
