@@ -450,9 +450,30 @@ footer{
     display: flex;
     text-decoration: none;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
 }
 .contacts-footer a img{
     width: 24px;
     height: 24px;
+}
+.social-box{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.websitePolicy{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+}
+.unsubscribe-btn{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-transform: capitalize;
 }
